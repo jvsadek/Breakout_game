@@ -1,4 +1,4 @@
-# Portfolio Wesbite
+# Breakout Game
 
 ![Contributors](https://img.shields.io/github/contributors/jvsadek/Breakout_game?style=plastic)
 ![Forks](https://img.shields.io/github/forks/jvsadek/Breakout_game)
